@@ -67,6 +67,6 @@
     fallbacks = false
 
 [[redirects]]
-  from = "/"
+  from = "/index.html"
   to = "/landing"
   status = 200
